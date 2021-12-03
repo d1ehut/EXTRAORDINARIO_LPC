@@ -30,8 +30,8 @@ function tres() {
 
 fecha= date +"%A %d %B"
 echo ""
-echo "	1.Escanear equipos activos en la red
-	2.Escanear puertos abiertos en un equipo
+echo "	1.Escane equipos activos en la red
+	2.Escane puertos abiertos en un equipo
 	3.Desplegar -Host -Usuario -SO
 	4.Exit"
 	
