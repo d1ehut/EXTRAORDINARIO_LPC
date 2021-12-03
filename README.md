@@ -12,4 +12,4 @@ Dentro de este repositorio se podran encontrar 5 scripts (1 de BASH, 1 de PS y 3
 
 **NOTA 2: La tarea 3 fue corregida pues había un problema al ejecutarla, fue hecha de nuevo desde cero.
 
-**NOTA 3: Fue añadida la tarea 6 a este repositorio pues en tiempo regular no fue entregada
+**NOTA 3: Fue añadida la tarea 6 a este repositorio pues en tiempo regular no fue entregada.
