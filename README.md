@@ -9,3 +9,7 @@ Dentro de este repositorio se podran encontrar 5 scripts (1 de BASH, 1 de PS y 3
 --Script de la tarea no. 8 : Este srcipt esta basado en: https://blog.nubecolectiva.com/como-crear-nuestro-primer-programa-o-software-ejecutable-con-python/, y lo que hace el script es crear un reloj en un ejecutable con las caracteristicas que se le hayan declarado anteriormente en el script, como el fondo, la fuente, etc. 
 
 **NOTA: La tarea 5 nunca pude realizarla, el documento se me marcaba como peligroso pero ya se que asi se supone que venía pero el problema viene cuando di todos los permisos necesarios de Windos y del Antivirus pero aún asi no pude descargar el archivo:(
+
+**NOTA 2: La tarea 3 fue corregida pues había un problema al ejecutarla, fue hecha de nuevo desde cero.
+
+**NOTA 3: Fue añadida la tarea 6 a este repositorio pues en tiempo regular no fue entregada
